@@ -1,8 +1,10 @@
-# C2-Panels-SHA-256-Hashes-
+# C2-Panels-SHA-256-Hashes 
+
+## Search the hashes at : https://urlscan.io/search/#*
+
+![](https://github.com/malfav/C2-Panels-SHA-256-Hashes-/blob/992be885b9ae6c24d1b54f72a882b9c12a4462a3/scr/iot.jpg)
+
 This table contains a list of SHA-256 hashes associated with various C2 malware families. You can use urlscan.io to hunt for the latest C2 servers.
-
-
-
 
 
 | #  | Name           | Hash                                                              |
