@@ -1,6 +1,6 @@
 # SHA-256 C2 ( Command and Control Server ) Hashes .
 
-## Search the hashes at : https://urlscan.io/search/#*
+Search the hashes at : https://urlscan.io/search/
 
 ![](https://github.com/malfav/C2-Panels-SHA-256-Hashes-/blob/992be885b9ae6c24d1b54f72a882b9c12a4462a3/scr/iot.jpg)
 
