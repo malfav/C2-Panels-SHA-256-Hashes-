@@ -1,4 +1,4 @@
-# C2-Panels-SHA-256-Hashes 
+# SHA-256 C2 ( Command and Control Server ) Hashes .
 
 ## Search the hashes at : https://urlscan.io/search/#*
 
